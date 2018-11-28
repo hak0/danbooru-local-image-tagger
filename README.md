@@ -1,5 +1,5 @@
 # autotag
-A tool for auto tagging local image via saucenao and danbooru for linux.
+A tool for auto tagging local image via saucenao and danbooru on linux.
 
 The tags will be written into image's XMP metadata.
 
